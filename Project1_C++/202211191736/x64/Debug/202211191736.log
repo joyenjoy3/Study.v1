@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191736\main.c(8): warning C4172: 지역 변수 또는 임시: score의 주소를 반환하고 있습니다.
+  202211191736.vcxproj -> C:\Users\joy\Desktop\Study.v1\Project1_C++\x64\Debug\202211191736.exe

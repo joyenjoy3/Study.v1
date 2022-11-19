@@ -1,0 +1,10 @@
+﻿  202211191505.c
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(13,7): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(18,7): warning C4101: 'names' :참조되지 않은 지역 변수입니다.
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(20,6): warning C4101: 'gradeArray' :참조되지 않은 지역 변수입니다.
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(16,6): warning C4101: 'classNum' :참조되지 않은 지역 변수입니다.
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(21,6): warning C4101: 'classNumArray' :참조되지 않은 지역 변수입니다.
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(15,6): warning C4101: 'grade' :참조되지 않은 지역 변수입니다.
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(19,6): warning C4101: 'noArray' :참조되지 않은 지역 변수입니다.
+C:\Users\joy\Desktop\Study.v1\Project1_C++\202211191505\202211191505.c(14,6): warning C4101: 'no' :참조되지 않은 지역 변수입니다.
+  202211191505.vcxproj -> C:\Users\joy\Desktop\Study.v1\Project1_C++\x64\Debug\202211191505.exe
