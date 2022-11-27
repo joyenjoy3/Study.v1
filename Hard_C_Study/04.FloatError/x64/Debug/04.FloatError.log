@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\joy\Desktop\Study.v1\Hard_C_Study\04.FloatError\main.c(10,13): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  04.FloatError.vcxproj -> C:\Users\joy\Desktop\Study.v1\Hard_C_Study\x64\Debug\04.FloatError.exe
