@@ -24,6 +24,7 @@
     <ProjectGuid>{97d627af-f172-402d-b922-dc53cf8e4f85}</ProjectGuid>
     <RootNamespace>OperatorSeven</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>01.OperatorSeven</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

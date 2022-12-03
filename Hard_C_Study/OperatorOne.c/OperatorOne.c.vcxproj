@@ -24,6 +24,7 @@
     <ProjectGuid>{439a69be-705a-4664-93fe-91ebfc8b293a}</ProjectGuid>
     <RootNamespace>OperatorOnec</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>01.OperatorOne.c</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

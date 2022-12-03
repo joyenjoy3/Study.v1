@@ -24,6 +24,7 @@
     <ProjectGuid>{76c7274b-9cf8-4ce0-8550-01f64b8cadac}</ProjectGuid>
     <RootNamespace>VarDeclAndlnitc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>01.VarDeclAndlnit.c</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

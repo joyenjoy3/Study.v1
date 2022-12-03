@@ -24,6 +24,7 @@
     <ProjectGuid>{7606e234-7a37-47ae-b6ea-6d4618515672}</ProjectGuid>
     <RootNamespace>OperatorFourc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>01.OperatorFour.c</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

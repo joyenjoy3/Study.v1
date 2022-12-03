@@ -24,6 +24,7 @@
     <ProjectGuid>{c0fafcbc-18b3-4a20-afcb-dc67f2ee0fcf}</ProjectGuid>
     <RootNamespace>SimpleAddTwoc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>01.SimpleAddTwo.c</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
